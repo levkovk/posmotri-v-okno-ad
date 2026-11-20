@@ -4,6 +4,8 @@
 
 Репозиторий: https://github.com/levkovk/posmotri-v-okno-ad
 
+Макет: https://www.figma.com/design/ApJjZAA3pBv2tCZM9E2ul2/?node-id=0-1
+
 ## Запуск
 
 Откройте `index.html` в браузере или запустите локальный сервер из каталога проекта:

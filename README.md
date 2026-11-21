@@ -26,4 +26,4 @@ python -m http.server 8000
 HTML, скрипт приложения, прелоадеры и заглушки ошибок сохранены из официальной заготовки:
 https://github.com/yandex-praktikum/posmotri-v-okno-ad
 
-Для загрузки видео требуется доступ к учебному API `v-content.practicum-team.ru`.
+Для загрузки видео требуется доступ к учебному API `v-content.ffapi.ru`.
